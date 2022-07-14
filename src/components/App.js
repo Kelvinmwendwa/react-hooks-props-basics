@@ -6,3 +6,5 @@ function App() {
 }
 
 export default App;
+
+//learning about prop. Nothing to add
